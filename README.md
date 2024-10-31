@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 Hi, I'm **Elizabeth Silva**, a passionate **Business Analytics and Information Systems** student.  
-I specialize in **Business Intelligence, Data Analytics, Information Technology, and Security**, with a strong interest in **Cybersecurity** and **Cloud Computing**. My GitHub is a space where I share my academic and personal projects, showcasing my skills and growth in the world of technology.
+I specialize in **Business Intelligence, Data Analytics, Information Technology, and Security**, with a strong interest in **Technology**. My GitHub is a space where I share my academic and personal projects, showcasing my skills and growth in the world of technology.
 
 ## About Me
 
@@ -24,6 +24,7 @@ I'm always looking to improve my skills and learn new technologies. Currently, I
 - **Power BI** to create dynamic dashboards and reports
 - **Python Programming** to enhance my data analysis and automation capabilities (in progress)
 - **Security Principles** and **Cybersecurity** to ensure data protection in technology projects
+- **Structured Query Language SQL
 
 ## Let’s Connect 💬
 
